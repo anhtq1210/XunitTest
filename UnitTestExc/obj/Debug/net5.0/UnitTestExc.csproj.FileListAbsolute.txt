@@ -1,0 +1,36 @@
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\UnitTestExc.deps.json
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\UnitTestExc.runtimeconfig.json
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\UnitTestExc.runtimeconfig.dev.json
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\UnitTestExc.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\ref\UnitTestExc.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\UnitTestExc.pdb
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.csprojAssemblyReference.cache
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.AssemblyInfoInputs.cache
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.AssemblyInfo.cs
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.csproj.CoreCompileInputs.cache
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\ref\UnitTestExc.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.pdb
+C:\Users\Benh Bong\Desktop\UnitTestExc\obj\Debug\net5.0\UnitTestExc.genruntimeconfig.cache
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\UnitTestExc.deps.json
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\UnitTestExc.runtimeconfig.json
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\UnitTestExc.runtimeconfig.dev.json
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\UnitTestExc.dll
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\ref\UnitTestExc.dll
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\UnitTestExc.pdb
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.csprojAssemblyReference.cache
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.AssemblyInfoInputs.cache
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.AssemblyInfo.cs
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.csproj.CoreCompileInputs.cache
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.dll
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\ref\UnitTestExc.dll
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.pdb
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\obj\Debug\net5.0\UnitTestExc.genruntimeconfig.cache
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Jobs\Nash_Tech\MS_Rookies\Offline_Course\Day_15_(2021-04-02)\Session_1_Unit_Testing_With_NUnit_Mentor\Practices\UnitTestExc\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Benh Bong\Desktop\UnitTestExc\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
